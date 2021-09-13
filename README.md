@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, my name is Sascha Happ.
+I am currently living in Germany. 
+I currently learning different topics like Game Development and Web Development.
