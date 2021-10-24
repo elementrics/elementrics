@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 Hi, my name is Sascha Happ.
 I am currently living in Germany. 
-I currently learning different topics like Game Development and Web Development.
+I currently learning different topics like Game Development and Web Development. 
+Current Projects: 
+- Frontend with React for OnlineShop
+- Mobile App with Flutter
