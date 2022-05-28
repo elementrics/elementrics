@@ -26,7 +26,7 @@ Programming Language/etc. repertoire:
 - Flutter/Dart
 - SQL
 
-Favorite Frameworks/Libraries/etc.:
+Favorite Frameworks/Libraries/etc. :
 - NextJS
 - React
 - react-query
