@@ -20,7 +20,7 @@ I am currently living in Germany and a passionate programmer.
 
 Programming Language/etc. repertoire:
 - C/C++
-- Assembly
+- Assembly(x86/x64/Arm)
 - Python
 - JS/TS
 - Dart
