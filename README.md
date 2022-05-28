@@ -23,7 +23,7 @@ Programming Language/etc. repertoire:
 - Assembly
 - Python
 - JS/TS
-- Flutter/Dart
+- Dart
 - SQL
 
 Favorite Frameworks/Libraries/etc. :
@@ -31,3 +31,4 @@ Favorite Frameworks/Libraries/etc. :
 - React
 - react-query
 - unreal engine
+- Flutter
