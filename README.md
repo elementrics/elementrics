@@ -16,8 +16,18 @@ Here are some ideas to get you started:
 -->
 
 Hi, my name is Sascha Happ.
-I am currently living in Germany. 
-I currently learning different topics like Game Development and Web Development. 
-Current Projects: 
-- Frontend with React for OnlineShop
-- Mobile App with Flutter
+I am currently living in Germany and a passionate programmer.
+
+Programming Language/etc. repertoire:
+- C/C++
+- Assembly
+- Python
+- JS/TS
+- Flutter/Dart
+- SQL
+
+Favorite Frameworks/Libraries/etc.:
+- NextJS
+- React
+- react-query
+- unreal engine
