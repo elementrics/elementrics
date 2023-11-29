@@ -29,6 +29,8 @@ Programming Language/etc. repertoire:
 Favorite Frameworks/Libraries/etc. :
 - NextJS
 - React
+- React Native
+- React Relay
 - react-query
 - unreal engine
 - Flutter
